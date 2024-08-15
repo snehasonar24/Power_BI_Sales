@@ -2,6 +2,8 @@
 
 This Power BI dashboard provides insights into sales performance across multiple dimensions. It highlights key metrics such as Total Transactions, Average Revenue, Total Revenue, and Country-wise Sales. The dashboard also provides data visualization by country, store, product, quarter, and region.
 
+Dashboard snap- ![image](https://github.com/user-attachments/assets/6bb31e12-6323-4826-9e0d-0b9ce55e5514)
+
 **2. Key Visualizations**
 
 Total Transaction, Average Revenue, and Total Revenue: Key metrics displayed prominently at the top.
